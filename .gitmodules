@@ -115,3 +115,9 @@
 [submodule "折高建"]
 	path = 折高建
 	url = https://github.com/BanStayUpLate/SGJ-Homework
+[submodule "徐文"]
+	path = 徐文
+	url = https://github.com/xw51624253/homework
+[submodule "吕杰"]
+	path = 吕杰
+	url = https://github.com/lvjie1234/homework
