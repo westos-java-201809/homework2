@@ -48,7 +48,7 @@
 	url = https://github.com/zxueb/homework.git
 [submodule "王康宇"]
 	path = 王康宇
-	url = https://github.com/Wistar-Kyoto/HomeWork.git
+	url = https://github.com/Wistar-Kyoto/HomeWork
 [submodule "刘帅"]
 	path = 刘帅
 	url = https://github.com/shuaideyapi/homework.git
@@ -121,3 +121,12 @@
 [submodule "李蓉"]
 	path = 李蓉
 	url = https://github.com/2b3c511/homework
+[submodule "郭兴"]
+	path = 郭兴
+	url = https://github.com/Memory33/Memory
+[submodule "丁广盈"]
+	path = 丁广盈
+	url = https://github.com/820109673/study
+[submodule "王子泉"]
+	path = 王子泉
+	url = https://github.com/zqwangf/homework
